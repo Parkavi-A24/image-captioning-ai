@@ -1,0 +1,14 @@
+body{
+    text-align:center;
+    font-family:Arial;
+    background:#f4f4f4;
+}
+
+.container{
+    margin-top:50px;
+}
+
+button{
+    padding:10px 20px;
+    cursor:pointer;
+}
